@@ -24,5 +24,5 @@ Compare the accuracy of the models for categorizations under a-1), a-2), and a-3
 
 b) Bonus: Investigate whether data can be categorized using linear regression. Determine which columns should be used to train the model in this case (from the data in 'Prva_zadaca.csv'). Construct linear regression for the same patient categorization as in 'Vtora_zadaca.csv'. What is the R2? Can this score be improved? What does our score depend on in this scenario?
 
-#### Conclusion:
+## Conclusion:
 This hackathon focuses on applying mathematical and statistical techniques to analyze medical data related to the effectiveness of a medication in reducing high blood pressure. By exploring various visualization methods, conducting statistical tests, and training classification algorithms, the goal is to derive insights and make informed decisions regarding patient treatment and medication efficacy. Additionally, the bonus task explores the potential of linear regression in categorizing patient data and improving model accuracy.
